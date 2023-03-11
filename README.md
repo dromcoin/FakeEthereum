@@ -11,3 +11,5 @@ Centralized EVM RPC API
 # ![alt text](https://i.imgur.com/LUCtFE1.png)
 
 Soon will add smart contracts. Now only ETH transactions available!
+ETH Donate --> 0x4c8cDcD2Dd6F2C9089C571549fF900688D09B0dF
+THX!
