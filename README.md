@@ -9,3 +9,5 @@ Centralized EVM RPC API
 5. Add your network to Metamask.
 6. Enjoy :)
 # ![alt text](https://i.imgur.com/LUCtFE1.png)
+
+Soon will add smart contracts. Now only ETH transactions available!
